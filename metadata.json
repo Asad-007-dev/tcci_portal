@@ -1,0 +1,6 @@
+{
+  "name": "TCCI Service Catalogue & Request Portal",
+  "description": "Request a service and follow it step by step. TCCI service counter for researchers, universities, ORICs, startups, and industry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
